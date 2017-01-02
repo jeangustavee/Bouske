@@ -14,7 +14,11 @@ position: relative;
 }
 
 .footer{
-	background: #9CE7D9;
+	background: #1D1D1D;
+    color: white;
+}
+.footer a{
+    color: white;
 }
 a {
     text-decoration: none;
@@ -26,6 +30,7 @@ a:hover{
 }
 .ctas-button {
 	color: #444;
+    background-color: black;
 }
 .ctas .twocta .ctas-button-2 {
 	border: 1px solid #333;
@@ -219,7 +224,7 @@ p.paragraph {
 	height: 40px;
 	line-height: 38px;
 	padding: 0 30px;
-	background: #fff;
+	background: darkgray;
 	border-radius: 3px;
 	font-size: 15px;
 	font-weight: 600;
@@ -257,7 +262,7 @@ p.paragraph {
 	height: 40px;
 	line-height: 38px;
 	padding: 0 30px;
-	background: #fff;
+	background: darkgray;
 	border-radius: 3px;
 	font-size: 15px;
 	font-weight: 600;
@@ -306,7 +311,7 @@ p.paragraph {
 	height: 40px;
 	line-height: 38px;
 	padding: 0 30px;
-	background: #fff;
+	background: darkgray;
 	border-radius: 3px;
 	font-size: 15px;
 	font-weight: 600;
