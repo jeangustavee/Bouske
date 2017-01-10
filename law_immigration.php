@@ -7,14 +7,13 @@
          <div class="feature6">
       <div class="container-lrg flex">
         <div class="col-7">
-            <p><a href="antean_studios.html"><b>ANTEAN STUDIOS</b></a> <br>
+            <p><b>JACKSONVILLE AREA LEGAL AID</b> <br>
                 Hours: M-F 9-5<br><br>
-4226 Atlantic Blvd.<br>
-Jacksonville, FL 32207<br><br>
-904-580-5923<br>
-<a href="http://anteanstudios.com" target="_blank">website</a><br><br>
-Website * Graphic Design * Branding * Art Direction * Events * Video Production <br><br>
-<b>Info:</b> Antean Studios is a full service advertising firm based in Jacksonville, FL.<br>
+126 W. Adams St. 2nd Floor.<br>
+Jacksonville, FL 32202<br><br>
+904-356-8371 ext. 334 <br>
+<a href="https://www.jaxlegalaid.org/" target="_blank">Website</a><br><br>
+<b>Info:</b> The Jacksonville Area Legal Aid (JALA) - Refugee Immigration Project provides free immigration legal services to eligible refugees, asylees, Cuban/Haitian entrants, Amerasians, Iraqi/Afghani Special Immigrant Visa holders, and certified victims of human trafficking.<br>
             </p><br>
             <hr>
           </div>

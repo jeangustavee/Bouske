@@ -2,7 +2,7 @@
       <div class="container-sml flex text-center">
         <div class="col-12">
           <h3 class="heading">
-            Instantly search Jacksonville Haitian businesses, find them and support them.
+            Instantly search Jacksonville Haitian businesses, find and support them.
           </h3>
           <div class="ctas">
             <a class="ctas-button" href="#">Write a Review</a>
@@ -16,7 +16,7 @@
         </div>
           
         <div class="col-3 vertical">
-          <a href="#" class="nav-link2">About</a>
+          <a href="about" class="nav-link2">About</a>
           <a href="#" class="nav-link2">Features</a>
           <a href="#" class="nav-link2">Pricing</a>
         </div>

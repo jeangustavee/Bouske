@@ -19,7 +19,14 @@ Wedding * Party * Birthday * Concert
            
             
             
-            
+            <p><b>DJ KUSH</b> <br>
+Call: 9047284331 <br>
+Email: familygee81@yahoo.com<br>
+<a href="https://www.facebook.com/DjYzmastermix" target="_blank">Facebook</a><br><br>
+Club * House Party * Wedding * Baby Shower * Communion * Concert <br>
+<b>Info:</b> N/A<br>
+            </p><br>
+            <hr><br><br>
             
           </div>
           

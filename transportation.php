@@ -7,14 +7,11 @@
          <div class="feature6">
       <div class="container-lrg flex">
         <div class="col-7">
-            <p><a href="antean_studios.html"><b>ANTEAN STUDIOS</b></a> <br>
-                Hours: M-F 9-5<br><br>
-4226 Atlantic Blvd.<br>
-Jacksonville, FL 32207<br><br>
-904-580-5923<br>
-<a href="http://anteanstudios.com" target="_blank">website</a><br><br>
-Website * Graphic Design * Branding * Art Direction * Events * Video Production <br><br>
-<b>Info:</b> Antean Studios is a full service advertising firm based in Jacksonville, FL.<br>
+            <p><b>ERICK REMY PROFESSIONAL DRIVER</b> <br>
+                Hours: Call for appointment<br><br>
+904-412-4785 <br>
+Website: N/A<br><br>
+<b>Info:</b> N/A<br>
             </p><br>
             <hr>
           </div>
