@@ -1,3 +1,3 @@
-<a href="#">
-          <img src="img/Banner_sample.jpeg" width="100%">
+<a href="http://anteanstudios.com" target="_blank">
+          <img src="img/antean5664.jpeg" width="100%">
           </a>
